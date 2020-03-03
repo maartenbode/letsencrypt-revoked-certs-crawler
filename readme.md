@@ -1,6 +1,6 @@
 # letsencrypt-revoked-certs-crawler
 
-Let's Encrypt will revoke 3 million certificates at March 4th. Bulk scan your domains using this tool.
+Let's Encrypt will revoke 3 million certificates on March 4th, 2020. Bulk scan your domains using this tool.
 
 ### Steps
 
