@@ -5,5 +5,5 @@ Let's Encrypt will revoke 3 million certificates at March 4th. Bulk scan your do
 ### Steps
 
 - `git clone git@github.com:maartenbode/letsencrypt-revoked-certs-crawler.git`
-- Dump your domains to crawl into `domains.txt`
+- Dump your domains to crawl into `domains.txt` (one domain per line)
 - Run `php index.php`
